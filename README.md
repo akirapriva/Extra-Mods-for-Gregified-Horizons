@@ -16,4 +16,4 @@
 https://www.mediafire.com/file/2pkhxshek3zxyvz/mods_for_gregified_horizons.rar/file
 
 # Instance Setup Download
-WIP
+https://www.mediafire.com/file/neaxjxxe4b4fx6o/Gregified_Horizons.zip/file
