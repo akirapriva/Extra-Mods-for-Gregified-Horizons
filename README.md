@@ -11,3 +11,9 @@
 1. Download the instance file.
 
 2. Import into launcher.
+
+# Manual Setup Download
+https://www.mediafire.com/file/2pkhxshek3zxyvz/mods_for_gregified_horizons.rar/file
+
+# Instance Setup Download
+WIP
